@@ -12,7 +12,7 @@
         <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
         <div class="checkbox">
           <label>
-            <input type="checkbox" value="remember-me"> Remember me
+            <input type="checkbox" value="remember-me"> Remember Help
           </label>
         </div>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Add Parts</button>
